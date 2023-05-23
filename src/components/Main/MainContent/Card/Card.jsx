@@ -18,7 +18,8 @@ const Card = ({ title, price, ...props }) => {
 			</div>
 			<div
 				className={
-					styles.pickButton + ' max-[650px]:opacity-100 max-[650px]:visible'
+					styles.pickButton +
+					' max-[650px]:opacity-100 max-[650px]:visible invisible opacity-0 transition-opacity'
 				}>
 				<button
 					className={
