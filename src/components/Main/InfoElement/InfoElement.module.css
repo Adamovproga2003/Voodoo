@@ -1,0 +1,19 @@
+.infoContainer {
+	max-height: 0;
+	transition: max-height 0.3s ease-out;
+	overflow: hidden;
+}
+
+.active {
+	max-height: 500px;
+	transition: max-height 0.3s ease-in;
+}
+
+.hiddenButton {
+	transform: rotate(0deg);
+	transition: transform 0.2s ease-out;
+}
+
+.activeButton {
+	transform: rotate(180deg);
+}
