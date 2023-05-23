@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Voodoo/static/css/main.68271fb6.css",
-    "main.js": "/Voodoo/static/js/main.161664a4.js",
+    "main.css": "/Voodoo/static/css/main.fa69ac66.css",
+    "main.js": "/Voodoo/static/js/main.885d32b1.js",
     "static/js/787.9482c9ab.chunk.js": "/Voodoo/static/js/787.9482c9ab.chunk.js",
     "static/media/Logo.svg": "/Voodoo/static/media/Logo.31f224ee5f2d6522b6f3cab1249c1e0e.svg",
     "static/media/Logomark.svg": "/Voodoo/static/media/Logomark.1cde5fd76ab2d97d9ce090edf18fd61a.svg",
     "index.html": "/Voodoo/index.html",
     "static/media/Alert.svg": "/Voodoo/static/media/Alert.a8d055cbfc1ba9fb4952744e0cdac782.svg",
     "static/media/Arrow.svg": "/Voodoo/static/media/Arrow.371f3ca92c0da6b9bf22917bb3c64bb9.svg",
-    "main.68271fb6.css.map": "/Voodoo/static/css/main.68271fb6.css.map",
-    "main.161664a4.js.map": "/Voodoo/static/js/main.161664a4.js.map",
+    "main.fa69ac66.css.map": "/Voodoo/static/css/main.fa69ac66.css.map",
+    "main.885d32b1.js.map": "/Voodoo/static/js/main.885d32b1.js.map",
     "787.9482c9ab.chunk.js.map": "/Voodoo/static/js/787.9482c9ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68271fb6.css",
-    "static/js/main.161664a4.js"
+    "static/css/main.fa69ac66.css",
+    "static/js/main.885d32b1.js"
   ]
 }
