@@ -8,7 +8,9 @@ const InfoElement = () => {
 	const [isOpen, setOpen] = useState(false)
 
 	return (
-		<div className='bg-black text-[#FCF7E6] p-6 rounded mb-12'>
+		<div
+			className='bg-black text-[#FCF7E6] p-6 rounded mb-12 hover:cursor-pointer'
+			onClick={() => setOpen(!isOpen)}>
 			<div className='grid grid-cols-alert gap-11 max-[640px]:gap-3 '>
 				<div className='grid grid-cols-info gap-2 justify-start'>
 					<div>
@@ -84,7 +86,7 @@ const InfoElement = () => {
 					</div>
 				</div>
 				<div>
-					<button onClick={() => setOpen(!isOpen)}>
+					<button>
 						<ArrowIcon
 							className={
 								styles.hiddenButton + ' ' + (isOpen && styles.activeButton)
