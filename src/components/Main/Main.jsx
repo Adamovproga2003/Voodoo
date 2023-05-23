@@ -4,7 +4,7 @@ import MainContent from './MainContent/MainContent'
 
 const Main = () => {
 	return (
-		<main className='2xl:px-30 xl:px-24 lg:px-18 md:px-12 sm:px-6 max-[640px]:px-6'>
+		<main className='2xl:px-30 xl:px-24 lg:px-18 md:px-12 sm:px-6 max-[640px]:px-6 max-[322px]:px-3'>
 			<div className='2xl:container 2xl:mx-auto'>
 				<InfoElement />
 				<MainContent />

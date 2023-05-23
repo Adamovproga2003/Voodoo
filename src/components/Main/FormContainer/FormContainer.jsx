@@ -1,6 +1,6 @@
 const FormContainer = () => {
 	return (
-		<div className='max-[640px]:py-5 py-12 mb-20'>
+		<div className='max-[322px]:py-0 max-[640px]:py-5 py-12 mb-20'>
 			<h5 className='md:text-xl max-[640px]:text-sm pb-6 text-center'>
 				Be the first one to know when we launch our beta!
 			</h5>
@@ -13,7 +13,7 @@ const FormContainer = () => {
 				<button
 					type='submit'
 					onClick={e => e.preventDefault()}
-					className='transition-all text-base text-black bg-orange-600 py-3 px-5 rounded max-[380px]:text-sm'>
+					className='transition-all text-base text-black bg-orange-600 py-3 px-5 rounded max-[380px]:text-sm max-[322px]:px-3'>
 					Sign-up
 				</button>
 			</form>
